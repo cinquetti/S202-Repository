@@ -1,3 +1,3 @@
 # S202-Repository
 
-Repositório da Disciplina Banco De Dados II
+Repositório do Laboratório da Disciplina de Banco De Dados II
