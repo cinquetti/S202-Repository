@@ -1,0 +1,15 @@
+[{
+    "professor": "Chris",
+    "assunto": "Programação Orientada a objetos",
+    "alunos": [{"nome": "Ana", "Curso": "GES",  "Idade": 20}, {"nome": "Maria", "Curso": "GEA",  "Idade": 22},{"nome": "Rita", "Curso": "GEC",  "Idade": 21}, {"nome": "Maria Luiza", "Curso": "GES",  "Idade": 20}]
+  },
+  {
+    "professor": "Renzo Mesquita ",
+    "assunto": "Análise de Dados",
+    "alunos": [{"nome": "Lucas", "Curso": "GES",  "Idade": 20}, {"nome": "Ricardo", "Curso": "GEA",  "Idade": 22},{"nome": "Carlos", "Curso": "GEC",  "Idade": 21}, {"nome": "Paulo Carlos", "Curso": "GES",  "Idade": 20}]
+  },
+  {
+    "professor": "Jonas",
+    "assunto": "Banco de Dados II",
+    "alunos": [{"nome": "José", "Curso": "GES",  "Idade": 20}, {"nome": "Maria", "Curso": "GEA",  "Idade": 22},{"nome": "Carlos", "Curso": "GEC",  "Idade": 21}, {"nome": "José Carlos", "Curso": "GES",  "Idade": 20}]
+  }]
